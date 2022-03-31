@@ -1,0 +1,37 @@
+.condition{
+    padding-top: 0;
+    margin-top: 0;
+    margin-left: 20px;
+    color: rgb(8, 8, 8);
+  }
+  
+  .cityInput{
+    color: rgb(10, 10, 10);
+
+  }
+  
+  .cityName{
+    font-size: 15px;
+    padding-left: 16px;
+  }
+  .bigCities{
+    background: white;
+    opacity: 0.7;
+    width: 130px;
+    height: 120px;
+    padding: 3px;
+    border-radius: 10px;
+    color: rgb(10, 10, 10);
+    margin: 5px;
+    margin-top: 5px;
+  }
+
+  p {
+    font-size: 15px;
+    font-family: inherit;
+  }
+  
+  .temp{
+    margin: 15px;
+  }
+
